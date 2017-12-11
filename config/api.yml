@@ -1,0 +1,12 @@
+media.mimes.video:
+  - video/mp4
+media.mimes.image:
+  - image/png
+  - image/jpeg
+  - image/gif
+media.mimes.other:
+  - application/pdf
+cdn.schema: http
+cdn.host: cdn.robery.eu
+cdn.base: /home
+cdn.user: cdnrobery
